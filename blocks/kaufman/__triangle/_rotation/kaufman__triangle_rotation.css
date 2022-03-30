@@ -1,0 +1,5 @@
+@import url(../../../rotation/rotation.css);
+
+.kaufman__triangle_rotation {
+  animation: rotation 20s linear infinite;
+}
