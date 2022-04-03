@@ -1,3 +1,43 @@
-<svg width="995" height="1006" viewBox="0 0 995 1006" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M247.666 717.014L499.294 0.404095L994.083 576.626L247.666 717.014Z" fill="#2F80ED"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="746.41699"
+   height="716.60992"
+   viewBox="0 0 746.41699 716.60992"
+   fill="none"
+   version="1.1"
+   id="svg834"
+   sodipodi:docname="triangle3.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs838" />
+  <sodipodi:namedview
+     id="namedview836"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.78628231"
+     inkscape:cx="249.27434"
+     inkscape:cy="401.25537"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg834"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="M 0,716.60991 251.628,0 746.417,576.2219 Z"
+     fill="#2f80ed"
+     id="path832" />
 </svg>
