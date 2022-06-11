@@ -16,3 +16,4 @@
 Использовал HTML и CSS. 
 В проекте использовал БЭМ.
 
+![screen-gif](./how-to-learn-gif.gif)
