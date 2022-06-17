@@ -31,10 +31,10 @@
 
 ### Ссылки
 
-+ HTML: [Самоучитель HTML] (http://htmlbook.ru)
-+ CSS: [Самоучитель CSS] (https://www.schoolsw3.com/css)
-+ БЭМ: [Методология БЭМ] (https://ru.bem.info/methodology/)
-+ Git [Учебник Git] (https://git-scm.com/book/ru/v2)
++ **HTML**: [Самоучитель HTML](http://htmlbook.ru)
++ **CSS**: [Самоучитель CSS](https://www.schoolsw3.com/css)
++ **БЭМ**: [Методология БЭМ](https://ru.bem.info/methodology/)
++ **Git**: [Учебник Git](https://git-scm.com/book/ru/v2)
 
 
 ### Общий вид
