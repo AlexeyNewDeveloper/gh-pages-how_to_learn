@@ -57,17 +57,17 @@
 #
 ### Инструкция по развертыванию
 
-**_1. Необходимо клонировать себе проект с помощью команды git clone. 
+**_1. Необходимо клонировать себе проект с помощью команды git clone._** 
 
-**_2. Перейти в Настройки 
+**_2. Перейти в Настройки_** 
   #
   ![](https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png)
   #
-**_3. Нажать на ссылку Pages
+**_3. Нажать на ссылку Pages_**
   #
   ![](https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/LinkToPages.png)
   #
-**_4. Выбрать нужную ветку и корневую папку
+**_4. Выбрать нужную ветку и корневую папку_**
   #
    ![](https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SelectBranch.png)
    
