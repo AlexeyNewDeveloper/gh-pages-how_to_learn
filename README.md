@@ -36,9 +36,11 @@
 + БЭМ: [Методология БЭМ] (https://ru.bem.info/methodology/)
 + Git [Учебник Git] (https://git-scm.com/book/ru/v2)
 
+<div style="background-color: grey;">
 ### Общий вид
 
 ![screen-gif](./how-to-learn-gif.gif)
+</div>
 
 ### Будущее проекта
 
