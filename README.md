@@ -53,7 +53,7 @@
 ### Инструкция по развертыванию
 
 1. Необходимо клонировать себе проект с помощью команды git clone.
-<hr/>
+#
 2. Перейти в Настройки 
   
   ![](https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png)
