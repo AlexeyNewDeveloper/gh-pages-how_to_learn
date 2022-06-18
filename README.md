@@ -61,15 +61,15 @@
 
 **_2. Перейти в Настройки_** 
   #
-  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png" width="500px"></img>
+  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png" width="650px"></img>
   #
 **_3. Нажать на ссылку Pages_**
   #
-  ![](https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/LinkToPages.png)
+  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/LinkToPages.png" width="650px"></img>
   #
 **_4. Выбрать нужную ветку и корневую папку_**
   #
-   ![](https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SelectBranch.png)
+  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SelectBranch.png" width="650px"></img>
    
 #   
 ### Системные требования
