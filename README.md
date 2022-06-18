@@ -65,7 +65,7 @@
   #
 **_3. Нажать на ссылку Pages_**
   #
-  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/LinkToPages.png" width="650px"></img>
+  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/LinkToPages.png" width="250px"></img>
   #
 **_4. Выбрать нужную ветку и корневую папку_**
   #
