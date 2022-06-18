@@ -61,8 +61,7 @@
 
 **_2. Перейти в Настройки_** 
   #
-  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png" width="250px"/>
-  [[ https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png \| height=480px]]
+  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png" width="250px"></img>
   #
 **_3. Нажать на ссылку Pages_**
   #
